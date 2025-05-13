@@ -24,3 +24,15 @@ python-dotenv
 # Machine Learning Utilities
 numpy
 scikit-learn
+pandas
+
+# FAISS for similarity search
+faiss-cpu
+
+# Rich for better console display
+rich
+
+# FastAPI for API
+fastapi
+pydantic
+uvicorn
